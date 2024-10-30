@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UniversalFamilySharing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "UniversalFamilySharing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
